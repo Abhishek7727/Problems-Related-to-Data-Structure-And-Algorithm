@@ -7,30 +7,30 @@ class Solution
 {
     public:
     //Function to find minimum time required to rot all oranges. 
-     int orangesRotting(vector<vector<int>>& nums) {
-  int n=nums.size();
-        int m=nums[0].size();
+    int orangesRotting(vector<vector<int>>& grid) {
+        // Code here
+        int n=grid.size();
+        int m=grid[0].size();
+        int visit[n][m];
         queue<pair<pair<int,int>,int>>q;
-        int vis[n][m];
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
-                if(nums[i][j]==2)
+                if(grid[i][j]==2)
                 {
+                    visit[i][j]=2;
                     q.push({{i,j},0});
-                    vis[i][j]=2;
                 }
                 else
                 {
-                    vis[i][j]=0;
+                    visit[i][j]=0;
                 }
             }
         }
-        int tm=0;
         int drow[]={-1,0,+1,0};
-        int dcol[]={0,1,0,-1};
-        int cnt=0;
+        int dcol[]={0,+1,0,-1};
+        int tm=0;
         while(!q.empty())
         {
             int r=q.front().first.first;
@@ -42,25 +42,27 @@ class Solution
             {
                 int nrow=r+drow[i];
                 int ncol=c+dcol[i];
+                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && visit[nrow][ncol]==0&&
+                grid[nrow][ncol]==1)
+                {
+                    q.push({{nrow,ncol},t+1});
+                    visit[nrow][ncol]=2;
+                }
+            }
             
-            if(nrow>=0&&nrow<n&&ncol>=0&&ncol<m&&vis[nrow][ncol]==0&&nums[nrow] 
-               [ncol]==1)
-            {
-                q.push({{nrow,ncol},t+1});
-                vis[nrow][ncol]=2;
-            }
-            }
         }
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
-                if(vis[i][j]!=2&& nums[i][j]==1)
+                if(visit[i][j]!=2 && grid[i][j]==1)
+                {
                     return -1;
+                }
             }
         }
         return tm;
-     }
+    }
 };
 
 //{ Driver Code Starts.
