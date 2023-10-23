@@ -9,34 +9,28 @@ using namespace std;
 
 class Solution{
 public:
-    string solve(string s)
-    {
-        string res="";
-        int i=0,n=s.length();
-        while(i<n)
-        {
-            if(i<n-1 && s[i]==s[i+1])
-            {
-                while(s[i]==s[i+1] &&i<n-1)
-                {
-                    i++;
-                }
-            }
-            else
-            res+=s[i];
-            i++;
-        }
-        return res;
-    }
+  
     string rremove(string s){
         // code here
-        string ans=s,temp="";
-        while(temp.size()!=ans.size())
+        string ans="";
+        int n=s.length();
+        for(int i=0;i<n;i++)
         {
-            temp=ans;
-            ans=solve(ans);
+            if(s[i]==s[i+1])
+            {
+                while(s[i]==s[i+1])
+                i++;
+            }
+            else
+            {
+                ans+=s[i];
+            }
+            
         }
+        if(ans==s)
         return ans;
+        return rremove(ans);
+
     }
 };
 
