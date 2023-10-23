@@ -11,30 +11,24 @@ class Solution
     string reverseWords(string S) 
     { 
         // code here 
-        stack<string>st;
-        string str="";
-        for(int i=0;i<S.length();i++)
-        {
-            if(S[i]=='.')
-            {
-                st.push(str);
-                str="";
-            }
-            else{
-                str+=S[i];
-            }
-        }
-        st.push(str);
-        string ans="";
-        while(st.size()!=1)
-        {
-            ans+=st.top();
-            ans+='.';
-            st.pop();
-            
-        }
-        ans+=st.top();
-        return ans;
+      string ans="",help="";
+      reverse(S.begin(),S.end());
+      for(int i=0;i<S.length();i++)
+      {
+          if(S[i]=='.')
+          {
+              reverse(help.begin(),help.end());
+              ans+=help+'.';
+              help="";
+          }
+          else
+          {
+              help+=S[i];
+          }
+      }
+      reverse(help.begin(),help.end());
+      ans+=help;
+      return ans;
         
     } 
 };
