@@ -1,25 +1,27 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        // 
-           int n = s.size();
-        vector<int> freq(3, 0);
-        int left = 0, right = 0, countDistinct = 0, ans = 0;
-
-        while (right < n) {
-            // expand window
-            if (freq[s[right] - 'a'] == 0) countDistinct++;
-            freq[s[right] - 'a']++;
-            right++;
-
-            // shrink window while condition true
-            while (countDistinct == 3) {
-                ans += (n - right + 1);
-                freq[s[left] - 'a']--;
-                if (freq[s[left] - 'a'] == 0) countDistinct--;
-                left++;
-            }
-        }
-        return ans;
+        unordered_map<char,int>mp;
+        mp['a']=0;
+        mp['b']=0;
+        mp['c']=0;
+        int n=s.size();
+        int i=0,j=0,count=0;
+        while(j<s.size())
+        {
+            char ch=s[j];
+           
+                mp[ch]++;
+                while(mp['a']>0 && mp['b']>0 &&mp['c']>0)
+                {
+                    count+=n-j;
+                    mp[s[i]]--;
+                    i++;
+                }
+                j++;
+        
+        }  
+        return count;
+        
     }
 };
