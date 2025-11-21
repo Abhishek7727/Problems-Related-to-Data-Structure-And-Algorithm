@@ -1,26 +1,24 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-         int i=0;
-        while(i<nums.size())
-        {
-            if(nums[i]!=nums[nums[i]-1])
-            {
-                swap(nums[i],nums[nums[i]-1]);
-            }
-            else 
-            i++;
-        }
-        vector<int>ans;
-        for(int i=0;i<nums.size();i++)
-        {
-            if(nums[i]!=i+1){
-                ans.push_back(nums[i]);
-            ans.push_back(i+1);
-            
-            }
-        }
-        return ans;
+           int n = nums.size();
+    long long S1 = 0, S2 = 0;
+    long long E1 = (long long)n * (n + 1) / 2;
+    long long E2 = (long long)n * (n + 1) * (2 * n + 1) / 6;
+
+    for (int x : nums) {
+        S1 += x;
+        S2 += (long long)x * x;
+    }
+
+    long long diff1 = S1 - E1; // dup - miss
+    long long diff2 = S2 - E2; // dup^2 - miss^2
+    long long sum_dm = diff2 / diff1; // dup + miss
+
+    int duplicate = (diff1 + sum_dm) / 2;
+    int missing = duplicate - diff1;
+
+    return {duplicate, missing};
         
     }
 };
