@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1364-tuple-with-same-product) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1929-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2107-find-unique-binary-string) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1929-concatenation-of-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Backtracking
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
