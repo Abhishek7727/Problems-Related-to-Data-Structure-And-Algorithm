@@ -23,9 +23,10 @@ public:
                end1=end2;
             }
 
-            //last element push karna hai kyu ki koi Aur nahi hai compare karne ko
+           
            
         }
+         //last element push karna hai kyu ki koi Aur nahi hai compare karne ko
          ans.push_back({start1,end1});
         return ans;
 
