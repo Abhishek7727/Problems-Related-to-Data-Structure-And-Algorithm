@@ -14,8 +14,10 @@ public:
 
             int diff=zero-one;
 
-            if(diff==0)
+            if(diff==0){
             res=i+1;
+            continue;
+            }
 
             else if(mp.find(diff)==mp.end())
             {
