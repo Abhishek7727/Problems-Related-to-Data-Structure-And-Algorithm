@@ -9,7 +9,7 @@ public:
             sum+=nums[j];
             if(sum>=target)
             {
-                res=min(res,j-i+1);
+               
                 while(sum>=target)
                 {  
                     res=min(res,j-i+1);
