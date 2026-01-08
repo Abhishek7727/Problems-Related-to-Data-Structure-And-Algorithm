@@ -7,9 +7,7 @@ public:
         while(j<nums.size())
         {
             sum+=nums[j];
-            if(sum>=target)
-            {
-               
+           
                 while(sum>=target)
                 {  
                     res=min(res,j-i+1);
@@ -19,7 +17,7 @@ public:
                 }
                
 
-            }
+            
              j++;
            
         }
