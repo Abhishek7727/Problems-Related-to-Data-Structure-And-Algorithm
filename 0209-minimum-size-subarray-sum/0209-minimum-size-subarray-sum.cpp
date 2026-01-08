@@ -13,7 +13,7 @@ public:
                     res=min(res,j-i+1);
                     sum-=nums[i];
                     i++;
-                  
+                   if(res == 1) return 1;
                 }
                
 
