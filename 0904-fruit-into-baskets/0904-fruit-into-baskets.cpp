@@ -7,11 +7,9 @@ public:
         while(j<arr.size())
         {
             mp[arr[j]]++;
-            if(mp.size()<=2)
-            ans=max(ans,j-i+1);
+           
 
-            else if(mp.size()>2)
-            {
+           
                 while(mp.size()>2)
                 {
                     mp[arr[i]]--;
@@ -22,7 +20,7 @@ public:
                 }
               //  if(mp.size()==2)
                 ans=max(ans,j-i+1);
-            }
+            
             j++;
         }
         return ans;
