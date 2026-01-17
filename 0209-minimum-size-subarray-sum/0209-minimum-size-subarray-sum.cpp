@@ -21,6 +21,6 @@ public:
              j++;
            
         }
-        return (res != INT_MAX) ? res : 0;
+        return (res == INT_MAX) ? 0: res;
     }
 };
