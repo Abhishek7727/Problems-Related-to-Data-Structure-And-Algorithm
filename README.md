@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2107-find-unique-binary-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3379-transformed-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3379-transformed-array) |
 | [3430-count-days-without-meetings](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3637-trionic-array-i](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3637-trionic-array-i) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1929-concatenation-of-array) |
+| [3379-transformed-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Backtracking
 |  |
