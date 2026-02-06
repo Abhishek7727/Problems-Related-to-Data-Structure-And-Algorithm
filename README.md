@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3379-transformed-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3379-transformed-array) |
 | [3430-count-days-without-meetings](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3637-trionic-array-i) |
 ## Simulation
 |  |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3430-count-days-without-meetings](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3430-count-days-without-meetings) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 |  |
 | ------- |
