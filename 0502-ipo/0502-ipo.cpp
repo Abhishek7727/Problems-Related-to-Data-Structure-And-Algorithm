@@ -19,13 +19,11 @@ public:
             maxH.push(proj[idx].second);
             idx++;
             }
-            
+
             if(maxH.empty())
             return w;
             w=w+maxH.top();
             maxH.pop();
-
-
 
         }
         return w;
