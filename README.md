@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0696-count-binary-substrings) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0518-coin-change-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Bit Manipulation
 |  |
