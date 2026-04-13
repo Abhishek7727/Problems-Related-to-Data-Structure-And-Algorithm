@@ -2,12 +2,13 @@ class Solution {
 public:
     int getMinDistance(vector<int>& nums, int target, int start) {
         int ans=INT_MAX;
+        if(nums[start]==target)
+        return 0;
         for(int i=0;i<nums.size();i++)
         {
             if(nums[i]==target){
                 ans=min(ans,abs(i-start));
-                if(ans==0)
-                return 0;
+               
             }
         }
         return ans;
