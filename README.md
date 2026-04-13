@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1980-find-unique-binary-string) |
