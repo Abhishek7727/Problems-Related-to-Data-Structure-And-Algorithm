@@ -6,6 +6,8 @@ public:
         {
             if(nums[i]==target){
                 ans=min(ans,abs(i-start));
+                if(ans==0)
+                return 0;
             }
         }
         return ans;
