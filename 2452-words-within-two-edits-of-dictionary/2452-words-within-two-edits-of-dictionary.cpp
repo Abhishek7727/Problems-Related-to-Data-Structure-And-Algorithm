@@ -8,6 +8,8 @@ public:
         {
             if(d[i]!=q[i])
             diff++;
+            if(diff>2)
+            break;
         }
         return diff;
     }
