@@ -1,14 +1,18 @@
 class Solution {
 public:
     int furthestDistanceFromOrigin(string moves) {
-            int left = 0, right = 0, blanks = 0;
-
-        for (char c : moves) {
-            if (c == 'L') left++;
-            else if (c == 'R') right++;
-            else blanks++;
+        int l=0,r=0,s=0;
+        int n=moves.length();
+        for(int i=0;i<n;i++)
+        {
+            if(moves[i]=='L')
+            l++;
+            else if(moves[i]=='R')
+            r++;
+            else
+            s++;
         }
-
-        return abs(left - right) + blanks;
+        return abs(l-r)+s;
+        
     }
 };
