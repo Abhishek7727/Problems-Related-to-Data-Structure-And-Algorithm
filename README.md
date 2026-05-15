@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1470-shuffle-the-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Matrix
 |  |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -368,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -459,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0743-network-delay-time) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
@@ -498,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0743-network-delay-time) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1631-path-with-minimum-effort) |
 ## String Matching
 |  |
 | ------- |
@@ -517,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Graph Theory
 |  |
