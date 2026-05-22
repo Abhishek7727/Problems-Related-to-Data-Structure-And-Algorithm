@@ -1,18 +1,14 @@
 class Solution {
 public:
-    int solve(vector<int>& nums)
+    int findFirst(vector<int>&nums)
     {
         int res=0;
-        int n=nums.size();
-
-        int low=0,high=n-1;
+        int low=0,high=nums.size()-1;
         while(low<=high)
         {
             int mid=(low+high)/2;
-            if(nums[mid]>nums[n-1])
-            {
-                low=mid+1;
-            }
+            if(nums[0]<=nums[mid])
+            low=mid+1;
             else
             {
                 res=mid;
@@ -21,35 +17,38 @@ public:
         }
         return res;
     }
-    int binarySearch(vector<int>& nums,int k,int low,int high)
+    int binarySearch(vector<int>&arr,int low,int high,int target)
     {
-         int res=-1;
-         int start=low,end=high;
-         while(start<=end)
-         {
-            int mid=(start+end)/2;
-            if(nums[mid]==k)
+       /// int res=-1;
+        while(low<=high)
+        {
+            int mid=(low+high)/2;
+            if(arr[mid]==target)
             return mid;
-            else if(nums[mid]>k)
+            else if(arr[mid]>target)
             {
-                end=mid-1;
+                high=mid-1;
             }
-            else{
-                start=mid+1;
-            }
-         }
-         return  res;
-
+            else
+            low=mid+1;
+        }
+        return -1;
     }
+    
     int search(vector<int>& nums, int target) {
-        int firstElement=solve(nums);
-        int a=binarySearch(nums,target,0,firstElement-1);
-        int b=binarySearch(nums,target,firstElement,nums.size()-1);
-        if(a==-1)
-        return b;
-        else
-        return a;
+       int n=nums.size();
+       int firstEle=findFirst(nums);
+       if(firstEle == 0)
+{
+    return binarySearch(nums,0,n-1,target);
+}
 
+       if(target>=nums[0] && target<=nums[firstEle-1])
+       {
+        return binarySearch(nums,0,firstEle-1,target);
+       }
+       else
+       return binarySearch(nums,firstEle,n-1,target);
         
     }
 };
