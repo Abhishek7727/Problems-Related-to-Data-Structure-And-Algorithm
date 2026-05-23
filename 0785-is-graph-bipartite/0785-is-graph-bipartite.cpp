@@ -33,6 +33,8 @@ public:
         {
             if(color[i]==-1)
             bfs(adj,i,0,color);
+            if(res==false)
+            return false;
         }
         return res;
     }
