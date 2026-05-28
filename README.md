@@ -559,4 +559,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0743-network-delay-time) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
