@@ -1,33 +1,39 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>>ans;
         int n=nums.size();
+        int left=0,right=n-1;
+        vector<vector<int>>ans;
         sort(nums.begin(),nums.end());
-        for(int i=0;i<n;i++)
+        for(int i=0;i<n-2;i++)
         {
-            int t=-nums[i]; 
-            int l=i+1;
-            int h=n-1;
-            while(l<h)
-            {
-                if(nums[l]+nums[h]==t)
-                {
-                    while(l<h&&nums[l]==nums[l+1])
-                    l++;
-                    while(l<h&&nums[h]==nums[h-1])
-                    h--;
-                    ans.push_back({nums[i],nums[l],nums[h]});
-                    l++;
-                    h--;
-                }
-                else if(nums[l]+nums[h]>t)
-                h--;
-                else
-                l++;
+               if(i>0 && nums[i] == nums[i-1]){
+                continue;
             }
-            while(i+1<n&&nums[i]==nums[i+1])
-            i++;
+            left=i+1;
+            right=n-1;
+            while(left<right)
+            {
+                
+                if(nums[left]+nums[right]==-nums[i])
+                {
+                    ans.push_back({nums[i],nums[left],nums[right]});
+                    left++;
+                    right--;
+                    while((left<right )&& nums[left]==nums[left-1])
+                    left++;
+                   while((left <right) && nums[right]==nums[right+1])
+                   right--;
+                  
+                }
+                else if(nums[left]+nums[right]>-nums[i])
+                right--;
+                else
+                left++;
+
+
+
+            }
         }
         return ans;
     }
