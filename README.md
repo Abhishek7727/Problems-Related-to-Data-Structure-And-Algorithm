@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2107-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2615-sum-of-distances](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2107-find-unique-binary-string](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2107-find-unique-binary-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2574-left-and-right-sum-differences) |
@@ -477,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -524,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
