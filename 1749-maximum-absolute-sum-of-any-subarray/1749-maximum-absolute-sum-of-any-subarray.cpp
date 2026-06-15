@@ -1,22 +1,20 @@
 class Solution {
 public:
     int maxAbsoluteSum(vector<int>& nums) {
-        int res=0;
-        int maxEnd=nums[0],minEnd=nums[0];
-        int maxSum=nums[0], minSum=nums[0];
+        if(nums.size()==1)
+        return abs(nums[0]);
+        int minSum=nums[0];
+        int maxSum=nums[0];
+        int ans=nums[0];
+        int currMin=nums[0];
+        int currMax=nums[0];
         for(int i=1;i<nums.size();i++)
         {
-            //Kadens se Maximum sum subarray nikalo Aur 
-           maxEnd=max(maxEnd+nums[i],nums[i]);
-           maxSum=max(maxSum,maxEnd);
-         
-         // Minimum sum subarray nikalna hai 
-           minEnd=min(minEnd+nums[i],nums[i]);
-           minSum=min(minSum,minEnd);
-          
-            
+            currMax=max(currMax+nums[i],nums[i]);
+            currMin=min(currMin+nums[i],nums[i]);
+            ans=max(ans,max(abs(currMin),currMax));
         }
-        //Aur phir dono ka maximum nikal lo
-        return max(maxSum,abs(minSum));
+        return ans;
+        
     }
 };
