@@ -1,45 +1,35 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& nums) {
-        if(nums.size()==0)
-            return true;
-        int n=numCourses;
-        int m=nums[0].size();
-        vector<int>adj[n];
-        for(auto it:nums)
+    bool canFinish(int numCourses, vector<vector<int>>& arr) {
+        vector<vector<int>>adj(numCourses);
+        vector<int>inDeg(numCourses,0);
+        for(int i=0;i<arr.size();i++)
         {
-            adj[it[1]].push_back(it[0]);
-        }
-        vector<int>indegree(numCourses,0);
-        for(int i=0;i<n;i++)
-        {
-            for(auto it:adj[i])
-            {
-                indegree[it]++;
-            }
+            adj[arr[i][1]].push_back(arr[i][0]);
+            inDeg[arr[i][0]]++;
         }
         queue<int>q;
-        for(int i=0;i<n;i++)
+        for(int i=0;i<numCourses;i++)
         {
-            if(indegree[i]==0)
-            {
-                q.push(i);
-            }
+            if(inDeg[i]==0)
+            q.push(i);
         }
-        vector<int>topo;
+        int ans=0;
         while(!q.empty())
         {
-            int node=q.front();
-            q.pop();
-            topo.push_back(node);
-            for(auto it:adj[node])
+            int node=q.front();q.pop();
+            ans++;
+            for(int i=0;i<adj[node].size();i++)
             {
-                indegree[it]--;
-                if(indegree[it]==0)
-                    q.push(it);
+                int neigh=adj[node][i];
+                inDeg[neigh]--;
+                if(inDeg[neigh]==0)
+                {
+                    q.push(neigh);
+                }
             }
+
         }
-        return (n==topo.size());
-        
+        return ans==numCourses;
     }
 };
