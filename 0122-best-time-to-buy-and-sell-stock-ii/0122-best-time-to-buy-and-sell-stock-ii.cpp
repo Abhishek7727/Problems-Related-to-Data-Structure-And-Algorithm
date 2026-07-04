@@ -1,32 +1,21 @@
 class Solution {
 public:
-    int solve(int ind,int buy,vector<int>&arr,vector<vector<int>>&dp)
-    {
-        if(ind==arr.size())
-        return 0;
-
-        if(dp[ind][buy]!=-1)
-        return dp[ind][buy];
-
-        if(buy)
+    int maxProfit(vector<int>& arr) {
+        int n=arr.size();
+        vector<vector<int>>dp(n+1,vector<int>(2,0));
+        for(int i=n-1;i>=0;i--)
         {
-            int take=-arr[ind]+solve(ind+1,0,arr,dp);
+            int buy=-arr[i]+dp[i+1][0];
+            int skip=dp[i+1][1];
+            dp[i][1]=max(buy,skip);
 
-            int skip=solve(ind+1,1,arr,dp);
+            int sell=arr[i]+dp[i+1][1];
 
-            return dp[ind][buy]=max(take,skip);
+            int hold=dp[i+1][0];
+
+            dp[i][0]=max(sell,hold);
+
         }
-        else
-        {
-            int sell=arr[ind]+solve(ind+1,1,arr,dp);
-            int skip=solve(ind+1,0,arr,dp);
-            return dp[ind][buy]=max(sell,skip);
-        }
-    }
-    int maxProfit(vector<int>& prices) {
-        int n=prices.size();
-        vector<vector<int>>dp(n,vector<int>(2,-1));
-        return solve(0,1,prices,dp);
-        
+        return dp[0][1];
     }
 };
