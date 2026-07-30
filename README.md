@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3536-maximum-product-of-two-digits) |
@@ -563,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2384-largest-palindromic-number](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2384-largest-palindromic-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Tree
 |  |
 | ------- |
