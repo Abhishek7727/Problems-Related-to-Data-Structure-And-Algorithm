@@ -1,3 +1,6 @@
+
+
+
 class Solution {
 public:
    int score(vector<int>& nums,int start,int end)
@@ -7,10 +10,12 @@ public:
        int chooseend=nums[end]-score(nums,start,end-1);
        return max(choosestart,chooseend);
    }
-    bool PredictTheWinner(vector<int>& nums) {
+    bool predictTheWinner(vector<int>& nums) {
         int s=0;
         int end=nums.size()-1;
         return score(nums,s,end)>=0;
         
     }
 };
+  
+        
