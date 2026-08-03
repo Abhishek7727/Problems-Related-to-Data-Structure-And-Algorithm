@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1732-find-the-highest-altitude](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0901-online-stock-span](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1441-build-an-array-with-stack-operations) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -403,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Counting Sort
 |  |
 | ------- |
@@ -439,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1631-path-with-minimum-effort) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3620-network-recovery-pathways](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -472,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0696-count-binary-substrings) |
 | [0986-interval-list-intersections](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0986-interval-list-intersections) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/3643-flip-square-submatrix-vertically) |
@@ -764,4 +769,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0877-stone-game) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
