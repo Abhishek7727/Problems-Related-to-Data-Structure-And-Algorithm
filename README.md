@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0056-merge-intervals) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0113-path-sum-ii) |
