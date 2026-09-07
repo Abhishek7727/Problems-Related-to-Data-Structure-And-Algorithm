@@ -339,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1563-stone-game-v](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1563-stone-game-v) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -684,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -716,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1631-path-with-minimum-effort) |
@@ -750,6 +753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
@@ -888,4 +892,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0337-house-robber-iii) |
 | [0687-longest-univalue-path](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0687-longest-univalue-path) |
 | [0968-binary-tree-cameras](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0968-binary-tree-cameras) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
