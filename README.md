@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0480-sliding-window-median](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0621-task-scheduler) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0455-assign-cookies) |
+| [0480-sliding-window-median](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0494-target-sum) |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0904-fruit-into-baskets) |
@@ -588,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0480-sliding-window-median](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0658-find-k-closest-elements) |
@@ -918,4 +922,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0687-longest-univalue-path](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0687-longest-univalue-path) |
 | [0968-binary-tree-cameras](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0968-binary-tree-cameras) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/Abhishek7727/Problems-Related-to-Data-Structure-And-Algorithm/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
