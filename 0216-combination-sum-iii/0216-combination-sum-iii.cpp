@@ -16,13 +16,13 @@ public:
         
         for(int num=start;num<=9;num++)
         {
-            if(target-num<0)
+            if(target-num>=0)
             {
-              return ;
-            }
-            curr.push_back(num);
+             curr.push_back(num);
             solve(num+1,k,target-num);
             curr.pop_back();
+            }
+           
         }
 
 
