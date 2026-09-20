@@ -18,7 +18,7 @@ public:
         {
             if(target-num<0)
             {
-              continue;
+              return ;
             }
             curr.push_back(num);
             solve(num+1,k,target-num);
